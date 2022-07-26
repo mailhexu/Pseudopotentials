@@ -8,14 +8,10 @@ PSML PPs for f-elements from pseudodojo input files in the github repo. The func
 For other elements, they can be found on the Pseudodojo website:
 http://www.pseudo-dojo.org/
 
-.
-└── f_electrons_dojo 
-    ├── PPs
-    │   ├── PBE_FR    
-    │   ├── PBEsol_FR
-    │   ├── PBEsol_SR
-    │   ├── PBE_SR
-    │   ├── PW_FR
-    │   └── PW_SR
-    └── script
+In the PPs directory, the subdirectories are named {XC}_{rel}, with XC={PBE, PBEsol, PW},and rel={SR, FR}. 
+
+SR: scalar-relativistic
+FR: full-relativistic.
+
+
 
