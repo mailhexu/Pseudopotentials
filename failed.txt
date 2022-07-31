@@ -1,0 +1,146 @@
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Ce.psmldos.py 
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Ce.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Ce.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Pr.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Pr.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Pr.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Nd.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Nd.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Nd.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Pm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Pm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Pm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Pm.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Sm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Sm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Sm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Sm.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Eu.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Eu.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Eu.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Gd.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Gd.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Gd.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Gd.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Tb.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Tb.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Tb.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Tb.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Dy.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Dy.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Dy.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Dy.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Ho.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Ho.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Ho.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Ho.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Er.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Er.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Er.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Er.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Tm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Tm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Tm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Tm.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Yb.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Yb.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Yb.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Yb.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_NR/Lu.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_SR/Lu.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Lu.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBE_FR/Lu.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Ce.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Ce.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Ce.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Ce.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Pr.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Pr.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Pr.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Pr.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Nd.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Nd.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Nd.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Nd.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Pm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Pm.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Pm.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Pm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Pm.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Sm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Sm.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Sm.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Sm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Sm.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Eu.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Eu.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Eu.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Eu.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Gd.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Gd.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Gd.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Gd.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Gd.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Tb.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Tb.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Tb.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Tb.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Tb.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Dy.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Dy.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Dy.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Dy.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Dy.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Ho.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Ho.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Ho.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Ho.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Ho.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Er.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Er.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Er.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Er.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Er.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Tm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Tm.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Tm.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Tm.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Tm.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Yb.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Yb.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Yb.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Yb.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Yb.psml: Failed
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Lu.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_NR/Lu.psml: Failed
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_SR/Lu.psml
+Note: The following floating-point exceptions are signalling: IEEE_DENORMAL
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Lu.psml
+/home/hexu/projects/dojo/pseudo_dojo-master/pseudo_dojo/pseudos/pps_fincore/PBEsol_FR/Lu.psml: Failed

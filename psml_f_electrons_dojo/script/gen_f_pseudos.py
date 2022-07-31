@@ -30,12 +30,12 @@ def get_input_sp(xc, elem, label="-sp.in"):
         return fname
 
 
-def gen_psml(xc, elem, label="-sp.in", rel='SR'):
+def gen_psml(xc, elem, label="-sp.in", rel='SR', output_path='pps'):
     command = {'NR': 'oncvpspnr.x', 'SR': 'oncvpsp.x', "FR": 'oncvpspr.x'}
     cache_path = os.path.join(root, 'cache', xc, elem)
     os.makedirs(cache_path, exist_ok=True)
     fname = get_input_sp(xc, elem, label)
-    path_nr = os.path.join(root, 'pps', f"{xc}_{rel}")
+    path_nr = os.path.join(root, output_path, f"{xc}_{rel}")
     os.makedirs(path_nr, exist_ok=True)
     failed = open("failed.txt", 'w')
     if fname is not None:
@@ -60,9 +60,12 @@ def gen_psml(xc, elem, label="-sp.in", rel='SR'):
 
 for xc in ['PBE', 'PBEsol', 'PW']:
     for elem in elems:
-        gen_psml(xc, elem, rel='NR')
-        gen_psml(xc, elem, rel='SR')
-        gen_psml(xc, elem, rel='FR')
+        gen_psml(xc, elem, rel='NR', label='3+_f-in-core.in',
+                 output_path='pps_fincore')
+        gen_psml(xc, elem, rel='SR', label='3+_f-in-core.in',
+                 output_path='pps_fincore')
+        gen_psml(xc, elem, rel='FR', label='3+_f-in-core.in',
+                 output_path='pps_fincore')
 
 
 def get_psml(elem, xc):
